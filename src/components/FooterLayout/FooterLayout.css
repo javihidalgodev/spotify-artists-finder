@@ -1,0 +1,29 @@
+footer {
+  margin-top: 20px;
+  width: 100%;
+
+  flex-grow: 1;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+
+  text-align: center;
+}
+
+.foot-container {
+  width: 100%;
+  padding: 10px 0;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.foot-container > * {
+  padding: 6px 0;
+}
+
+footer div.social a:first-of-type {
+  margin: 0 10px;
+}

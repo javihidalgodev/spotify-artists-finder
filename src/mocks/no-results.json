@@ -1,0 +1,11 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=weasdzxcasdqweasd&type=artist&locale=es-ES%2Ces%3Bq%3D0.9&offset=0&limit=20",
+    "items" : [ ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  }
+}
